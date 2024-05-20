@@ -1,6 +1,6 @@
 # app-dev.
 My first repository
-Hello! :joy:
+Hello! :smile:
 # MY FAVORITE MOVIE
 ## ROM-COM/COMEDY/ANIME
 
